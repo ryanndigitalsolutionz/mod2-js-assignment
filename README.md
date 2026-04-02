@@ -1,7 +1,7 @@
 # Array Practise
 
 **So far, we've noted...**
-1. ###indexOf### - *an array method which returns the first index of an element or lists the position of the first index an element. An example is...*
+1. ###indexOf### - *an array method which returns the first index of an element or lists the position of the first index an element.*
 
 2. ###reverse### - *Reverses the order of elements in an array in place, meaning the original array is modified.*
 
