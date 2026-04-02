@@ -1,4 +1,3 @@
-// Module 2 Assignment
 // Name: Ryan Makori
 
 // 1. Largest integer among two numbers
